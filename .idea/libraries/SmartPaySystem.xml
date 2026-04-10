@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SmartPaySystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SmartPaySystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
